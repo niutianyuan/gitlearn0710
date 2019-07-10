@@ -1,1 +1,1 @@
-a remote git test learned from bird
+a remote git test learned from runoob.com
